@@ -1,0 +1,15 @@
+{
+  "FilePath": "c:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Server\\BDBlockchainTCC.Server.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": null,
+  "RootNamespace": "BDBlockchainTCC.Server",
+  "Documents": []
+}
