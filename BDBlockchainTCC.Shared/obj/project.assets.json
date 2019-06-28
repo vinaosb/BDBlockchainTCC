@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
       "projectName": "BDBlockchainTCC.Shared",
-      "projectPath": "C:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
+      "projectPath": "C:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
       "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -229,12 +229,7 @@
           }
         },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
         "warn": true
