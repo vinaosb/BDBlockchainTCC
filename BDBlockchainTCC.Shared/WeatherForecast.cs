@@ -6,6 +6,8 @@ namespace BDBlockchainTCC.Shared
 {
     public class WeatherForecast
     {
+        public string ID { get; set; }
+        public string Hash { get; set; }
         public DateTime Date { get; set; }
 
         public int TemperatureC { get; set; }

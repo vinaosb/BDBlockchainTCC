@@ -178,25 +178,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Vinicius\\.nuget\\packages\\": {},
+    "C:\\Users\\vsbb1\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\vsbb1\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
       "projectName": "BDBlockchainTCC.Shared",
-      "projectPath": "c:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
-      "packagesPath": "C:\\Users\\Vinicius\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Vinicius\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\obj\\",
+      "projectPath": "C:\\Users\\vsbb1\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\BDBlockchainTCC.Shared.csproj",
+      "packagesPath": "C:\\Users\\vsbb1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\vsbb1\\Dropbox\\Trabalhos Ciencias da Computacao\\TCC\\BDBlockchainTCC\\BDBlockchainTCC.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vsbb1\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
